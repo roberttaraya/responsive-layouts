@@ -1,0 +1,49 @@
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (max-width: 790px), only screen and (max-device-width: 790px)  {
+
+    body {
+      max-width: 700px;
+    }
+
+    #pageHeader {
+      height: 125px;
+    }
+
+    #pageHeader img {
+      width: 125px;
+      height: 125px;
+    }
+
+    #pageHeader nav {
+      max-width: 575px;
+    }
+
+    #pageHeader ul {
+      height: 125px;
+      line-height: 125px;
+    }
+
+    #pageHeader li {
+      padding: 1.5em;
+    }
+
+    #pageHeader li:hover {
+    }
+
+    #mainSection {
+      width: 100%;
+    }
+
+    #mainSection aside {
+    }
+
+    #mainSection section {
+    }
+
+
+    footer {
+    }
+}
