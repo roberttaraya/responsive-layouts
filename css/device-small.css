@@ -16,14 +16,18 @@
     #pageHeader img {
       width: 175px;
       height: 175px;
-      display: block;
+      /*display: block;*/
+      float: none;
+      text-align: center;
+      margin: 0 auto;
     }
 
     #pageHeader nav {
-      position: absolute;
-      top: 0;
-      left: 175px;
-      width: 65%;
+      /*position: absolute;*/
+      /*top: 0;*/
+      /*left: 175px;*/
+      float: left;
+      width: 100%;
     }
 
     #pageHeader ul {
