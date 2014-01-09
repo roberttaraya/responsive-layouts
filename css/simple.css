@@ -1,0 +1,139 @@
+/* ==========================================================================
+   HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
+   ==
+   ======================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+body {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+header, nav, aside, section, footer, ul, li, img {
+  /*outline: 1px solid black;*/
+}
+
+body {
+  max-width: 960px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#pageHeader {
+  position: relative;
+  width: 100%;
+  height: 100px;
+  background-color: orange;
+}
+
+#pageHeader img {
+  min-width: 10.4166%;
+  height: 100px;
+  display: block;
+  float: left;
+  background-color: red;
+}
+
+#pageHeader nav {
+  float: right;
+  max-width: 89.5834%;
+  background-color: tan;
+}
+
+#pageHeader ul {
+  height: 100px;
+  float: right;
+  margin: 0;
+  padding: 0;
+  line-height: 100px;
+  background-color: yellow;
+}
+
+#pageHeader li {
+  display: inline;
+  padding: 0 3em;
+  margin: 0;
+}
+
+#pageHeader li:hover {
+  background-color: blue;
+  color: yellow;
+}
+
+#mainSection {
+  width: 89.5833%;
+  margin: 0 auto;
+  position: relative;
+}
+
+#mainSection aside {
+  width: 30%;
+  float: left;
+  background-color: pink;
+}
+
+#mainSection section {
+  width: 70%;
+  float: left;
+  background-color: green;
+}
+
+
+footer {
+  width: 100%;
+  height: 150px;
+  background-color: blue;
+  float: left;
+}
