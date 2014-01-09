@@ -9,25 +9,25 @@
     }
 
     #pageHeader {
-      height: 75px;
+      height: 125px;
     }
 
     #pageHeader img {
-      width: 10.7142%;
-      height: 75px;
+      width: 125px;
+      height: 125px;
     }
 
     #pageHeader nav {
-      max-width: 89.2858%;
+      max-width: 575px;
     }
 
     #pageHeader ul {
-      height: 75px;
-      line-height: 75px;
+      height: 125px;
+      line-height: 125px;
     }
 
     #pageHeader li {
-      padding: 0 2em;
+      padding: 1.5em;
     }
 
     #pageHeader li:hover {

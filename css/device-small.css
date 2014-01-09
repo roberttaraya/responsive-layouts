@@ -35,6 +35,7 @@
       line-height: 33px;
       display: block;
       border: 1px solid black;
+      padding: 0 2em;
     }
 
     #pageHeader li:hover {
